@@ -1,0 +1,30 @@
+💗 DROP YOUR PHOTOS IN THIS FOLDER 💗
+
+Save your pictures here using these EXACT names (this is the only thing you
+need to do to add photos). Any normal photo works — .jpg is easiest.
+
+  us-1.jpg          -> the "how it began" photo
+  us-spicy.jpg      -> the intimate / "come closer" photo
+
+  journey-1.jpg     -> journey step 1
+  journey-2.jpg     -> journey step 2
+  journey-3.jpg     -> journey step 3
+
+  gallery-1.jpg     -> photo wall
+  gallery-2.jpg
+  gallery-3.jpg
+  gallery-4.jpg
+  gallery-5.jpg
+  gallery-6.jpg
+
+That's it. Refresh the page and your photos appear automatically.
+
+Notes
+-----
+• Until you add a photo, a pretty animated placeholder shows in its spot —
+  nothing looks broken, so you can add photos one at a time.
+• Want different names or more/fewer photos? Open ../config.js and change the
+  file names / add lines. The names in config.js must match the files here.
+• Portrait (tall) photos look great for us-1 and us-spicy.
+  Square or landscape look great for the gallery.
+• Delete this .txt file if you like — it's just a note to you.
